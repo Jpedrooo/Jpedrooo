@@ -2,9 +2,17 @@
 
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Python
+- 🌱 Estudando Python e Data Science
 - 📫 Contate-me no e-mail: jpedroviegas2005@gmail.com
-- 😄 Pronomes: Ele/Dele
+- 😄 Pronomes: ele/dele
+
+  <details>
+  <summary>👨‍💻 Um pouco mais sobre mim</summary>
+
+  -💬 Tenho 20 anos, vivo no Brasil e estudo bastante inglês. Possuo experiência com bancos de dados, HTML, CSS, Python, Java, JavaScript, entre outros tópicos. Atualmente, trabalho na área de suporte ao usuário e estou em busca de uma oportunidade nas áreas de Back-End, Machine Learning ou Data Science.
+
+  -⚡ Algumas das minhas soft skills incluem comunicação, capacidade de adaptação e liderança. Gosto de ler livros e narrativas sobre programação e desenvolvimento pessoal, jogar videogame, praticar esportes e passar tempo com minha família e amigos.
+  </details>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jpedrooo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedrooo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,6 +26,8 @@
   <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
           
 </div>
+
+
 
 ##
 
