@@ -1,7 +1,7 @@
 ## Olá, eu sou o João Pedro!
 
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Hoje trabalho com Suporte ao usuário 
 - 🌱 Estudando Python e Data Science
 - 📫 Contate-me no e-mail: jpedroviegas2005@gmail.com
 - 😄 Pronomes: ele/dele
@@ -24,6 +24,9 @@
   <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+          
+          
           
 </div>
 
