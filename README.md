@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Suporte ao usuário 
-- 🌱 Estudando Python e Data Science
+- 🌱 Estudando programação e Data Science
 - 📫 Contate-me no e-mail: jpedroviegas2005@gmail.com
 - 😄 Pronomes: ele/dele
 
