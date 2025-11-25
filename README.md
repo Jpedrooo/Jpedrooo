@@ -14,7 +14,6 @@
   -⚡ Algumas das minhas soft skills incluem comunicação, capacidade de adaptação e liderança. Gosto de ler livros e narrativas sobre programação e desenvolvimento pessoal, jogar videogame, praticar esportes e passar tempo com minha família e amigos.
   </details>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jpedrooo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedrooo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
