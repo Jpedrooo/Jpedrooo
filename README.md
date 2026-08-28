@@ -43,7 +43,7 @@ Também sou certificado técnico em TI pelo COTEMIG.
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedrooo&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedrooo&theme=tokyonight&layout=compact&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
