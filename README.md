@@ -2,7 +2,7 @@
 
 # João Pedro Viegas Naves
 
-**Desenvolvedor em transição | Suporte Técnico → Software Development**
+**Desenvolvedor Full Stack**
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jpedroviegas2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-viegas-naves)
@@ -13,19 +13,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Profissional com experiência em **Suporte ao Usuário**, em transição para desenvolvimento de software. Tenho background prático em resolução de problemas técnicos, comunicação com clientes e ambientes de TI — o que me dá uma perspectiva diferenciada como desenvolvedor.
+Estudante de Ciência da Computação (Newton Paiva, 5º período) e estagiário na Avenue ECO, onde atuo em duas frentes: suporte técnico back-end (desde janeiro de 2026) e desenvolvimento full stack (desde maio de 2026), com previsão de transição integral para o desenvolvimento.
 
-Atualmente aprofundando conhecimentos em **Back-End**, **Data Science** e **Machine Learning**, com foco em construir soluções reais e escaláveis.
+No suporte, desenvolvi raciocínio crítico para diagnóstico de problemas e comunicação técnica diária em inglês com clientes e liderança nos EUA — habilidades que carrego para o desenvolvimento full stack, minha área de foco principal.
 
----
-
-## 🎯 Foco Atual
-
-| Área | Direção |
-|------|---------|
-| 🔧 Back-End Development | Python, Java, SQL |
-| 📊 Data Science | Análise e visualização de dados |
-| 🤖 Machine Learning | Modelos preditivos e automação |
+Também sou certificado técnico em TI pelo COTEMIG.
 
 ---
 
@@ -33,15 +25,17 @@ Atualmente aprofundando conhecimentos em **Back-End**, **Data Science** e **Mach
 
 <table>
   <tr>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/><br>Python</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/><br>JavaScript</td>
     <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/><br>Java</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/><br>CSS3</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg"/><br>HTML</td>
+    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/><br>Spring Boot</td>
     <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/><br>React</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/><br>SQL</td>
+    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/><br>JavaScript</td>
+    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/><br>TypeScript</td>
+    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/><br>Git</td>
+    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"/><br>GitLab</td>
   </tr>
 </table>
+
+**Suporte técnico:** Freshdesk · MongoDB · JIRA
 
 ---
 
@@ -51,13 +45,12 @@ Atualmente aprofundando conhecimentos em **Back-End**, **Data Science** e **Mach
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedrooo&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
 </div>
 
 ---
 
 <div align="center">
 
-📍 Brasil &nbsp;|&nbsp; Belo Horizonte
+📍 Belo Horizonte, Brasil
 
 </div>
