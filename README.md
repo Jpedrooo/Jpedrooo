@@ -27,6 +27,7 @@ Também sou certificado técnico em TI pelo COTEMIG.
   <tr>
     <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/><br>Java</td>
     <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/><br>Spring Boot</td>
+    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/><br>Python</td>
     <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/><br>React</td>
     <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/><br>JavaScript</td>
     <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/><br>TypeScript</td>
@@ -36,6 +37,8 @@ Também sou certificado técnico em TI pelo COTEMIG.
 </table>
 
 **Suporte técnico:** Freshdesk · MongoDB · JIRA
+
+Também tenho bagagem em **Python para análise de dados**, área que explorei no início da carreira.
 
 ---
 
